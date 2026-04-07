@@ -1,5 +1,3 @@
-package minimarket;
-
 import minimarket.makanan;
 
 public class main {
